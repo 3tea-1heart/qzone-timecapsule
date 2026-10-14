@@ -1,0 +1,6 @@
+<Project>
+  <PropertyGroup>
+    <TargetPlatformMoniker Condition="'$(MSBuildProjectName)' == 'QZoneArchive'">Windows,Version=7.0</TargetPlatformMoniker>
+    <TargetPlatformDisplayName>Windows</TargetPlatformDisplayName>
+  </PropertyGroup>
+</Project>
